@@ -1,0 +1,24 @@
+[user]
+	name = Lvc-IOS
+	email = ranocchietto06@gmail.com
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
+[push]
+	autoSetupRemote = true
+[rebase]
+	autoStash = true
+[diff]
+	algorithm = histogram
+	colorMoved = default
+[merge]
+	conflictstyle = zdiff3
+[alias]
+	st = status -sb
+	co = checkout
+	sw = switch
+	br = branch -vv
+	lg = log --graph --pretty=format:'%C(yellow)%h%Creset %s %C(cyan)(%cr)%Creset %C(green)<%an>%Creset%C(auto)%d' --abbrev-commit
+	amend = commit --amend --no-edit
+	undo = reset --soft HEAD~1
