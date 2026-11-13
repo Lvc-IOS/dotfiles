@@ -11,3 +11,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-07** — waybar: `killall -SIGUSR2 waybar` reloads the config without restarting
 - **2026-11-09** — zsh: fzf `ctrl+r` for history search, `ctrl+t` for files
 - **2026-11-10** — kitty: JetBrains Mono Nerd Font needed for waybar/nvim icons
+- **2026-11-13** — arch: `reflector --country Italy --sort rate --save /etc/pacman.d/mirrorlist`
