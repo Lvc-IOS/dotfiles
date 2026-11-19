@@ -14,3 +14,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-13** — arch: `reflector --country Italy --sort rate --save /etc/pacman.d/mirrorlist`
 - **2026-11-17** — nvim: Telescope `live_grep` needs ripgrep installed
 - **2026-11-18** — kitty: `ctrl+shift+f2` opens the config, `ctrl+shift+f5` reloads it
+- **2026-11-19** — git: `git lg` alias for a compact graph log
