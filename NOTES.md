@@ -17,3 +17,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-19** — git: `git lg` alias for a compact graph log
 - **2026-11-20** — pacman: `paccache -rk2` keeps only the last two versions of each package
 - **2026-11-21** — nvim: `:Lazy sync` after updating plugins, `:checkhealth` if LSP misbehaves
+- **2026-11-21** — zsh: fzf `ctrl+r` for history search, `ctrl+t` for files
