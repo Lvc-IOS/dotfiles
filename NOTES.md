@@ -20,3 +20,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-21** — zsh: fzf `ctrl+r` for history search, `ctrl+t` for files
 - **2026-11-22** — zsh: fzf `ctrl+r` for history search, `ctrl+t` for files
 - **2026-11-23** — zsh: `setopt hist_ignore_space` — prefix a command with space to keep it out of history
+- **2026-11-23** — nvim: `:Lazy sync` after updating plugins, `:checkhealth` if LSP misbehaves
