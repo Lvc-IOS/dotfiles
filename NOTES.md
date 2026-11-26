@@ -22,3 +22,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-23** — zsh: `setopt hist_ignore_space` — prefix a command with space to keep it out of history
 - **2026-11-23** — nvim: `:Lazy sync` after updating plugins, `:checkhealth` if LSP misbehaves
 - **2026-11-23** — nvim: Telescope `live_grep` needs ripgrep installed
+- **2026-11-26** — pacman: `paccache -rk2` keeps only the last two versions of each package
