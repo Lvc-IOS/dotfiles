@@ -24,3 +24,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-23** — nvim: Telescope `live_grep` needs ripgrep installed
 - **2026-11-26** — pacman: `paccache -rk2` keeps only the last two versions of each package
 - **2026-11-27** — nvim: `:Lazy sync` after updating plugins, `:checkhealth` if LSP misbehaves
+- **2026-11-27** — kitty: JetBrains Mono Nerd Font needed for waybar/nvim icons
